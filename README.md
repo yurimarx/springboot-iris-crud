@@ -10,7 +10,7 @@ Make sure you have [git](https://git-scm.com/book/en/v2/Getting-Started-Installi
 ## Installation and Running
 
 ```
-$ git clone https://github.com/yurimarx/hibernate-iris.git
+$ git clone https://github.com/yurimarx/springboot-iris-crud.git
 ```
 
 Open the terminal in this directory and run:
